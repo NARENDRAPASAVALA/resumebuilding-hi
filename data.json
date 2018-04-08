@@ -1,0 +1,48 @@
+{
+  "basics":{
+    "name":"narendra",
+    "photo":"cse3.png",
+    "email":"psplnarendra@gmail.com",
+    "mobileno":"2346567891",
+    "address":"svit college"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B.tech",
+      "institute":"SVIT,Anantapur",
+      "data":["2015-2019","70%"]
+    },
+    {
+      "degree":"INTERMRDIATE",
+      "institute":"sri sai,Anantapur",
+      "data":["2013-2015","74%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"SSVN,Anantapur",
+      "data":["2013","90%"]
+    }
+  ],
+  "skills":[
+    {
+      "sname":"languages",
+"sdata":["c","c++","java"]
+},
+{
+  "sname":"DataBase",
+"sdata":["oracle","Mysqlite","PDF"]
+},
+{
+  "sname":"web technologies",
+"sdata":["HTML","XML","PHP","css"]
+},
+{
+  "sname":"operating systems",
+"sdata":["windows","linux","unix"]
+}
+
+  ]
+}
